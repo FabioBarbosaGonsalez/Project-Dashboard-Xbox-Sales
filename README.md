@@ -8,8 +8,8 @@ A partir de uma tabela de dados tratada, foram utilizadas tabelas dinâmicas par
 
 Aqui estão as principais telas do painel finalizado:
 
-![Preview do Dashboard](dashboard_pt1.png)
 
+![Preview do Dashboard 1](dashboard_pt1.png)
 ![Preview do Dashboard 2](dashboard_pt2.png)
 
 
